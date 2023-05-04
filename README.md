@@ -41,3 +41,11 @@ Currently the system is able to recognise very fewer signs , it requires more co
 Improving the accuracy of the sign detection algorithm
 Expanding the system to support additional sign languages
 Integrating the system with other assistive technologies
+
+
+Additional features
+
+Sentence Creator
+In addition to recognizing individual signs and gestures, the system also includes a sentence creator feature. This feature is designed to generate complete sentences using the signs detected by the system. The sentence creator takes into account the grammatical structure of sign language and uses natural language processing techniques to generate meaningful sentences.
+To use the sentence creator feature, simply sign a series of words or phrases in the desired order. The system will detect each sign and use them to construct a grammatically correct sentence. The resulting sentence will be displayed on the screen or read aloud using a text-to-speech engine, depending on your configuration.
+The sentence creator feature is still a work in progress, and I am constantly working to improve its accuracy and performance. If you encounter any issues or have any suggestions for improvement, please feel free to contact.
