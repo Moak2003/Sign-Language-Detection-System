@@ -8,7 +8,7 @@ This project is a Real Time Sign Language Detection System made primarily for th
 
 Technology
 
-The project is built using the following technologies:
+The project is built using the following technologies stack:
 Python
 OpenCV
 Tensorflow
@@ -28,13 +28,13 @@ Usage
 To use the system, follow these steps:
 
 
-Run the system
+Run the system :-
 Position yourself in front of the camera
 Start signing with your hands
 The system will detect and interpret your signs in real time
 
 
-Future Work
+Future Work :-
 This project is a work in progress, and there are several improvements that could be made in the future. Some areas for improvement include:
 
 Currently the system is able to recognise very fewer signs , it requires more computational power in order to be trained for further signs.
@@ -43,7 +43,7 @@ Expanding the system to support additional sign languages
 Integrating the system with other assistive technologies
 
 
-Additional features
+Additional features:-
 
 Sentence Creator
 In addition to recognizing individual signs and gestures, the system also includes a sentence creator feature. This feature is designed to generate complete sentences using the signs detected by the system. The sentence creator takes into account the grammatical structure of sign language and uses natural language processing techniques to generate meaningful sentences.
